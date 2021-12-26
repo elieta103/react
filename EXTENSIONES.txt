@@ -1,0 +1,11 @@
+Auto Close Tag
+Auto Complete Tag
+Auto Rename Tag
+Bracket Pair Colorizer
+Css Peek
+DotENV
+ES7 React
+Tailwind Css
+
+
+Para chrome react dev tools

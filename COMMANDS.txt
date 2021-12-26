@@ -1,0 +1,17 @@
+# vite Sustituye create-react-app  
+npm init vite@latest
+
+#Una vez creada la app
+cd 01-citas-react-vite
+  npm install
+  npm run dev   
+
+# Function declaration
+rfce  
+# Function expresion  function arrow
+rafce 
+
+#Instalar tailwind
+npm install -D tailwindcss@latest postcss@latest autoprefix@latest
+# agrega postcss.config.js  Y tailwind.config.js
+npx tailwindcss init -p
