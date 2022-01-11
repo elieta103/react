@@ -15,3 +15,7 @@ rafce
 npm install -D tailwindcss@latest postcss@latest autoprefix@latest
 # agrega postcss.config.js  Y tailwind.config.js
 npx tailwindcss init -p
+
+
+#DEPLOY
+npm run build

@@ -6,6 +6,7 @@ Css Peek
 DotENV
 ES7 React
 Tailwind Css
+CSS Peek
 
 
 Para chrome react dev tools
