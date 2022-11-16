@@ -1,0 +1,17 @@
+...\02-citas-react> npm install -D tailwindcss postcss autoprefixer
+...\02-citas-react> npx tailwindcss init -p
+
+- Editar tailwind.config.cjs
+
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./index.html", "./src/**/*.jsx"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+
+- Tailwind CSS IntelliSense
+- CSS Peek

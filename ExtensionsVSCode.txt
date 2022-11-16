@@ -1,0 +1,8 @@
+- Auto Close tag
+- Auto Rename tag
+- Bracket pair colorizer
+- React code snippets
+- CSS Peek
+- DOTenv
+- ES7 React/Redux // Crear las platillas de las componentes
+- Simple React Snippets
