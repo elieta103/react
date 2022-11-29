@@ -1,0 +1,5 @@
+npm i @emotion/react @emotion/styled
+
+
+Extensiones
+vscode-styled-components
