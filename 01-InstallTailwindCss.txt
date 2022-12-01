@@ -5,12 +5,18 @@
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./index.html", "./src/**/*.jsx"],
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {},
   },
   plugins: [],
 }
+
+- Editar index.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 
 
 - Tailwind CSS IntelliSense

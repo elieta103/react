@@ -1,0 +1,13 @@
+npm i react-router-dom
+
+REDIRECCIONES
+- return redirect('/')	Dentro del flujo, funciones
+- navigate('/')		En botonees
+- <Link ... />		Menús
+
+
+HOOKS IMPORTANTES
+- useLoaderData   Carga de datos iniciales, para obtener el resultado de un Loader
+- useNavigate     Navegacion en botones
+- useActionData   Devolver datos del action hacia el componente, para obtener el resultado de un action
+- useRouteError   Mostrar errores personalizados en los componentes
